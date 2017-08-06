@@ -12,12 +12,12 @@ Deployment of [Lets Catalog](https://github.com/ahmfrz/Let-s-catalog) flask appl
  * Summary of softwares installed:
   - pip
   - virtualenv
-    a. python
-    b. flask
-    c. sqlalchemy
-    d. oauth2
-    e. oauth2client
-    f. httplib2
+  - python
+  - flask
+  - sqlalchemy
+  - oauth2
+  - oauth2client
+  - httplib2
  * Summary of configurations made:
   - root login disabled
   - database is owned by catalog user with tailored priviledges
